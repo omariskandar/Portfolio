@@ -86,6 +86,7 @@
 	border-radius: 5px;
 	text-decoration: none;
 	font-weight: bold;
+	
 	transition: background-color 0.3s ease;
   }
   
@@ -144,10 +145,10 @@
   }
   
   footer {
-	background-color: black;
+	background-color: white;
 	padding: 20px 0;
 	text-align: center;
-	color: #666;
-	font-size: 14px;
+	color: black;
+	font-size: 16pt;
   }
   
